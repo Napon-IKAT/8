@@ -1,5 +1,6 @@
 # 8
 It tells you the number 8 ....Not 7,Not 9, but precisely 8!
+
 Inspired by the profound revelations and delightful futility of The Stanley Parable, an app was lovingly handcrafted using the Flet library on Python. "Handcrafted" might be a strong word, as it suggests a degree of intentionality that frankly, me, are still trying to ascertain. It's a truly colossal 40MB in size, Indeed, it's so grand, it's even bigger than what GitHub allows you to upload directly through browser!, a testament not to groundbreaking features or breathtaking graphics, but to the sheer, unadulterated something packed within its digital walls. 
 
 This digital behemoth stands as a monument to the principle of... well, Absolutely Nothing! A towering achievement in negative space, a testament to the fact that you can make something quite large out of very little. I could have optimized, certainly. I could have made it a few kilobytes. But where's the artistic integrity in efficiency? Where's the existential dread in a small download, especially in this glorious age of 5G, not 56kb dial-up.
